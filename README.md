@@ -51,8 +51,6 @@ AWS: Focusing on cloud infrastructure, automation, and deployment strategies to 
 📊 GitHub Stats
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=th3-pr3d1t0r&theme=github_dark" alt="th3-pr3d1t0r's GitHub Stats" />
-<img src="https://raw.githubusercontent.com/th3-pr3d1t0r/th3-pr3d1t0r/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</p>
 
 🔗 Connect with Me
 <p align="center">
