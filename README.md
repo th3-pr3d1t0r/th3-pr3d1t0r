@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=ADFF2F&width=435&lines=Hello+there!+I'm+Ugochukwu;Backend+Developer+%26+DevOps+Enthusiast" alt="Typing Effect">
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=91D8E4&width=600&lines=Hello+there!+I'm+Ugochukwu;Backend+Developer+%26+DevOps+Enthusiast" alt="Typing Effect">
 </h1>
 </div>
 
