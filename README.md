@@ -1,19 +1,9 @@
 <div align="center">
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=91D8E4&width=600&lines=Hello+there!+I'm+Ugochukwu;Backend+Developer+%26+DevOps+Enthusiast" alt="Typing Effect">
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=91D8E4&width=600&lines=Hello+there!+I'm+Ugochukwu;Backend+Developer" alt="Typing Effect">
 </h1>
 </div>
-
----
-
-🚀 About Me
-I'm a dedicated **Backend Developer** with a strong foundation in **JavaScript**, **Python**, **Firebase**, and **SQL**, complemented by hands-on experience with **Spring Boot** projects. My passion lies in crafting robust, scalable, and efficient backend systems. I'm currently immersed in **NestJS** to elevate my API development skills and actively exploring **AWS** to deepen my expertise in DevOps. My ultimate goal is to master the full software development lifecycle, from initial code to seamless deployment and operations.
-
-While my primary focus is backend development, I also possess a foundational understanding of frontend frameworks like **React**, which enriches my appreciation for the full-stack perspective.
-
----
-
-🛠️ My Tech Stack
+My Tech Stack
 Here are some of the technologies I work with and am continually expanding my knowledge in:
 
 ### Languages & Runtimes
@@ -47,22 +37,10 @@ Here are some of the technologies I work with and am continually expanding my kn
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
----
-
-🌱 Currently Expanding My Skillset
-I'm deeply committed to continuous growth and actively expanding my expertise, particularly in areas that bridge robust backend development with seamless operations.
-
-* **NestJS**: I'm consistently deepening my understanding of this powerful framework for building enterprise-grade backend applications with TypeScript.
-* **AWS**: I'm diligently focusing on mastering cloud infrastructure, automation, and deployment strategies to significantly enhance my DevOps capabilities. This includes hands-on exploration of services like EC2, S3, Lambda, and integrating CI/CD pipelines with GitHub Actions.
-
----
-
 📊 GitHub Stats
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=th3-pr3d1t0r&theme=github_dark" alt="th3-pr3d1t0r's GitHub Stats" />
 </p>
-
----
 
 🔗 Connect with Me
 <p align="center">
